@@ -1,16 +1,16 @@
 
 
-nav #navbar-container ul{
+nav #main-navbar ul{
 	display: block;
 	margin: 0;                               
     padding: 0;
 	list-style-type: none;
-	text-decoration: none;
 }
 
-nav #navbar-container ul li{
-	background-color: blue;
+nav #navbar-container ul li a{
 	float: left;
+	background-color: blue;
+	text-decoration: none;
 	
 
 aside
