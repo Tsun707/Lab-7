@@ -1,19 +1,14 @@
 
 
 nav#main-navbar ul{
-	left: 50%;
-	right: 50%;
+	list-style-type: none;
 	padding: 0;
 	margin: 0;
-	list-style-type: none;
 	overflow: hidden; 
 }
 
 nav #navbar-container ul li{
 	float: left;
-	
-	text-decoration: none;
-	
-
-
-
+    left: 50%;
+	right: 50%;
+}
