@@ -1,38 +1,18 @@
 
 
-nav #main-navbar ul{
+nav#main-navbar ul{
 	display: block;
-	margin: 0;                               
-    padding: 0;
+	left: 50%;                               
+    right: 50%;
 	list-style-type: none;
+	overflow: hidden; 
 }
 
-nav #navbar-container ul li a{
+nav #navbar-container ul li{
 	float: left;
-	background-color: blue;
+	margain: 
 	text-decoration: none;
 	
 
-aside
-background-color: blue;         
-    overflow: hidden;                   
-    float: left;                               
-    width: 100%;                         
-    position: relative;                  
-    list-style-type: none;              
-    margin: 0;                               
-    padding: 0;  
- position: relative;                  
-    left: 50%;                               
-    float: left;                            
-    float: left;                                
-    position: relative;                    
-    right: 50%;
-    
-    display: block;
-    padding: 10px 20px;
-    color: #fff;
-    text-decoration: none;
-    background-color: #000;
-    text-decoration: underline overline;
+
 
