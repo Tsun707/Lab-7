@@ -13,3 +13,14 @@ nav #navbar-container ul li{
     left: 50%;
 	right: 50%;
 	display: block
+}
+
+nav #navbar-container ul li a{
+	text-decoration: none;
+	float: left; 
+	position: relative;
+	display: block
+
+	
+}
+	
