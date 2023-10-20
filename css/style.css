@@ -9,7 +9,7 @@ nav#main-navbar ul{
 
 nav #navbar-container ul li{
 	float: left;
-	display: block
 	position: relative; 
     left: 50%;
 	right: 50%;
+	display: block
