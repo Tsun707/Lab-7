@@ -23,8 +23,11 @@ nav #navbar-container ul li a{
 	position: relative;
 	padding: 10px 20px;
 	color: #fff;
-	display: block
-	
-	
+	display: block	
+}
+
+nav #navbar-container ul li a:hover{ 
+	background-color: blue;
+	text-decoration: underline overline;
 }
 	
