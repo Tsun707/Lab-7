@@ -4,7 +4,7 @@ nav#main-navbar ul{
 	margin: 0;
 	width: 100%; 
 	overflow: hidden; 
-	background-color: #000;
+	background-color: blue;
 }
 
 nav #navbar-container ul li{
@@ -25,7 +25,7 @@ nav #navbar-container ul li a{
 }
 
 nav #navbar-container ul li a:hover{ 
-	background-color: blue;
+	background-color: #000;
 	text-decoration: underline overline;
 }
 
@@ -39,7 +39,7 @@ nav #navbar-container ul li a:hover{
 }
 
 #sidebar-container ul li{
-	background-color: #000;	
+	background-color:red;	
 }
 
 #sidebar-container ul li a{
@@ -51,5 +51,5 @@ nav #navbar-container ul li a:hover{
 }
 
 #sidebar-container ul li a:hover{
-	background-color: red;
+	background-color: #000;
 }
